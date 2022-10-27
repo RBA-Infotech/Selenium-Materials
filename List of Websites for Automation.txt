@@ -1,0 +1,141 @@
+
+https://opensource-demo.orangehrmlive.com - Admin -> Qulification -> Skills, add or delete skills
+http://demo.automationtesting.in/Alerts.html
+https://opensource-demo.orangehrmlive.com
+https://register.rediff.com/register/register.php?FormName=user_details
+https://ishahomes.com
+https://www.quora.com/profile/Quora	
+http://www.ebay.com
+https://www.shopify.in/
+http://change2naturalfoods.com/ 
+https://www.snapdeal.com
+http://leafground.com/
+https://www.rediff.com
+https://www.bookswagon.com/
+https://www.eduvidya.com/
+https://www.air.irctc.co.in/ 
+https://www.cleartrip.com/ 
+http://selenium-examples.nichethyself.com/
+https://demoqa.com/droppable/ 
+https://opensource-demo.orangehrmlive.com/
+https://mail.rediff.com/cgi-bin/login.cgi 
+https://stqatools.com/demo/ 
+http://automationpractice.com/index.php
+http://cookbook.seleniumacademy.com/config.html 
+https://www.royalcaribbean.com/alaska-cruises 
+http://cookbook.seleniumacademy.com/Alerts.html 
+https://www.openlibrary.org/
+https://www.pepperfry.com/
+https://www.yatra.com/
+https://opensource-demo.orangehrmlive.com 
+https://pixabay.com/
+http://examples.codecharge.com/TaskManager/Default.php
+https://www.saucedemo.com/
+https://www.jainbookagency.com/india-largest-online-book-store.aspx
+http://newtours.demoaut.com/index.php
+https://www.demoblaze.com/
+https://demo.opencart.com/
+http://practice.automationtesting.in/
+https://petstore.octoperf.com/actions/Catalog.action
+http://automationpractice.com/index.php
+https://www.naukri.com/
+
+
+Yash -  
+trivago
+reddit - blogging
+linkedin
+naukri
+
+iqra - 
+Spotify
+twitter
+dell.com
+zara - shopping
+
+Aadharsh 
+IRCTC
+Skyscanner - fligh booking
+zomatto
+google
+
+Ompal
+makemytrip
+youtube
+coursera
+yahoo
+
+
+hackthon project
+www.practo.com
+coursera.org
+urbanladder.com
+tripadvisor.com
+justdial.com
+zigwheels.com
+polyzybazzar.com
+emicalculator.net
+bookmyshow.com
+makemytrip.com
+
+
+Ticket Booking:
+	bus ticket booking
+	train ticket - irctc - Group 3
+	flight ticket
+	movie ticket
+	cab booking
+	
+E-Commercy:
+	Flipkart - Group 1
+	Amazon
+	ebay
+	snapdeal
+
+Food delivery:
+	swiggy
+	zomato
+	dominos
+	kfc
+	pizzahut
+	
+Medicals:
+	Appola
+	MedPlus
+	Pharmeasy
+	
+Hotel Booking:
+	oyo
+	
+Trip booking:
+
+Shopping:
+	Jio mart
+	Myntra - Group 2
+	Reliance
+	More
+	
+Video Stream:
+	prime video
+	Netflix
+	YouTube
+	
+Matrimonial:
+	TamilMartimonial
+	
+
+Hospital:
+
+crickbuszz
+Sports:
+
+Ads:
+	quikr
+	alibaba
+	olx
+
+Retail:
+	Ajio
+	Bigbazaar
+	Bigbaskt
+
