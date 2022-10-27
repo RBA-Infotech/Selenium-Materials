@@ -38,7 +38,8 @@ https://demo.opencart.com/
 http://practice.automationtesting.in/
 https://petstore.octoperf.com/actions/Catalog.action
 http://automationpractice.com/index.php
-https://www.naukri.com/
+https://www.naukri.com
+https://www.advantageonlineshopping.com/
 
 
 Yash -  
